@@ -1,7 +1,7 @@
 body {
     background-color: rgba(95, 166, 95, 0.953);
-    display: flex;
-    align-items: flex-end;
+    overflow-y: hidden;
+    overflow-x: hidden;
 }
 
 .box {
