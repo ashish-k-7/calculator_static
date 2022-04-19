@@ -1,0 +1,182 @@
+body {
+    background-color: rgba(95, 166, 95, 0.953);
+}
+
+.box {
+    height: 500px;
+    width: 800px;
+    background-color: rgb(121, 198, 229);
+    position: relative;
+    top: 100px;
+    left: 380px;
+}
+
+.screen {
+    height: 94px;
+    width: 760px;
+    background-color: rgb(194, 235, 208);
+    position: relative;
+    bottom: 380px;
+    left: 401px;
+}
+
+.c1b1 button {
+    height: 80px;
+    width: 170px;
+    font-size: 50px;
+    position: relative;
+    left: 408px;
+    bottom: 360px;
+    background-color: rgb(208, 205, 205);
+}
+
+.c1b2 button {
+    height: 80px;
+    width: 170px;
+    font-size: 50px;
+    position: relative;
+    left: 598px;
+    bottom: 440px;
+    background-color: rgb(208, 205, 205);
+}
+
+.c1b3 button {
+    height: 80px;
+    width: 170px;
+    font-size: 50px;
+    position: relative;
+    left: 788px;
+    bottom: 520px;
+    background-color: rgb(208, 205, 205);
+}
+
+.c1b4 button {
+    height: 80px;
+    width: 170px;
+    font-size: 50px;
+    background-color: rgb(183, 227, 88);
+    position: relative;
+    left: 978px;
+    bottom: 600px;
+}
+
+.c2b1 button {
+    height: 80px;
+    width: 170px;
+    font-size: 50px;
+    position: relative;
+    left: 408px;
+    bottom: 590px;
+    background-color: rgb(208, 205, 205);
+}
+
+.c2b2 button {
+    height: 80px;
+    width: 170px;
+    font-size: 50px;
+    position: relative;
+    left: 598px;
+    bottom: 670px;
+    background-color: rgb(208, 205, 205);
+}
+
+.c2b3 button {
+    height: 80px;
+    width: 170px;
+    font-size: 50px;
+    position: relative;
+    left: 788px;
+    bottom: 750px;
+    background-color: rgb(208, 205, 205);
+}
+
+.c2b4 button {
+    height: 80px;
+    width: 170px;
+    font-size: 50px;
+    background-color: rgb(183, 227, 88);
+    position: relative;
+    left: 978px;
+    bottom: 830px;
+}
+
+.c3b1 button {
+    height: 80px;
+    width: 170px;
+    font-size: 50px;
+    position: relative;
+    left: 408px;
+    bottom: 820px;
+    background-color: rgb(208, 205, 205);
+}
+
+.c3b2 button {
+    height: 80px;
+    width: 170px;
+    font-size: 50px;
+    position: relative;
+    left: 598px;
+    bottom: 900px;
+    background-color: rgb(208, 205, 205);
+}
+
+.c3b3 button {
+    height: 80px;
+    width: 170px;
+    font-size: 50px;
+    position: relative;
+    left: 788px;
+    bottom: 980px;
+    background-color: rgb(208, 205, 205);
+}
+
+.c3b4 button {
+    height: 80px;
+    width: 170px;
+    font-size: 50px;
+    background-color: rgb(183, 227, 88);
+    position: relative;
+    left: 978px;
+    bottom: 1060px;
+}
+
+.c4b1 button {
+    height: 80px;
+    width: 170px;
+    font-size: 50px;
+    background-color: rgb(204, 96, 72);
+    position: relative;
+    left: 408px;
+    bottom: 1050px;
+}
+
+.c4b2 button {
+    height: 80px;
+    width: 170px;
+    font-size: 50px;
+    position: relative;
+    left: 598px;
+    bottom: 1130px;
+    background-color: rgb(208, 205, 205);
+}
+
+.c4b3 button {
+    height: 80px;
+    width: 170px;
+    font-size: 50px;
+    position: relative;
+    left: 788px;
+    bottom: 1210px;
+    background-color: rgb(208, 205, 205);
+}
+
+.c4b4 button {
+    height: 80px;
+    width: 170px;
+    font-size: 50px;
+    background-color: rgb(183, 227, 88);
+    position: relative;
+    left: 978px;
+    bottom: 1290px;
+}
+
